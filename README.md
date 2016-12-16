@@ -28,7 +28,7 @@ To get it running:
 
 1. Clone this repo locally (you'll need to [install git](http://git-scm.com/downloads)):
 
-        git clone https://github.com/chrisdavidmills/push-api-demo.git
+        git clone https://github.com/chrisdavidmills/push-api-demo.git --depth=1
 
 2. Install [NodeJS](https://nodejs.org/) if you haven't already.
 3. Install dependencies:
